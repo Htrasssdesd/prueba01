@@ -6,3 +6,4 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
 
+for ( ind i = 0; i < 10; i++){
